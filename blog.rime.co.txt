@@ -401,6 +401,30 @@
                                     {block:Date}
                                     <section class="panel">
                                         <footer class="post-footer">
+
+                                            <div class="meta_data">
+                                                <div class="inner">
+                                                    <a href="{PostAuthorURL}"><img class="avatar" src="{PostAuthorPortraitURL-64}"></a>
+                                                    <div class="content">
+                                                        
+                                                        <p class="date">
+                                                            <a href="{Permalink}" title="{TimeAgo}">
+                                                                {ShortMonth} {DayOfMonth}{DayOfMonthSuffix}, {Year}
+                                                            </a>
+                                                        </p>
+                                                        <p class="author">
+                                                            Posted by <a href="{PostAuthorURL}">{PostAuthorName}</a>
+                                                        </p>
+
+                                                        <p class="notes">
+                                                            {block:NoteCount}
+                                                                <a href="{Permalink}#notes">{NoteCountWithLabel}</a>
+                                                            {/block:NoteCount}
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
                                             <section class="inline-meta date-notes">
                                                 <div class="date-note-wrapper">
                                                     {block:NoteCount}
