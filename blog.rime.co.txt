@@ -403,10 +403,13 @@
                                         <footer class="post-footer">
 
                                             <div class="meta_data">
-                                                <div class="inner">
-                                                    <a href="{PostAuthorURL}"><img class="avatar" src="{PostAuthorPortraitURL-64}"></a>
-                                                    <div class="content">
-                                                        
+                                                <div class="media">
+                                                    <div class="media-left">
+                                                        <a href="{PostAuthorURL}">
+                                                            <img class="media-object avatar" src="{PostAuthorPortraitURL-64}">
+                                                        </a>
+                                                    </div>
+                                                    <div class="media-body">
                                                         <p class="date">
                                                             <a href="{Permalink}" title="{TimeAgo}">
                                                                 {ShortMonth} {DayOfMonth}{DayOfMonthSuffix}, {Year}
