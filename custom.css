@@ -1,0 +1,19 @@
+.date-notes .post-date.post-date {
+    display: inline;
+}
+
+#posts article {
+    margin-bottom: 20px;
+}
+
+.post {
+    margin-bottom: 0;
+}
+
+.panel {
+    opacity: 1;
+}
+
+.post-footer {
+    opacity: 1;
+}
