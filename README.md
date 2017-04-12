@@ -5,6 +5,8 @@ Custom: Tumblr Optica
 
 ![Screenshot](https://raw.githubusercontent.com/RimeOfficial/Tumblr-blog-theme/master/Screenshot%202015-06-23%2001.56.03.png)
 
+[dd1b393](https://github.com/RimeOfficial/Tumblr-Optica/commit/dd1b393b7fa5652d80b8010718ee0bb6c71dfed3?diff=split)
+
 ## Critical posts
 - http://blog.rime.co/post/124782270865/new-home-page-a-new-home-page-design-for-beta-the
 - http://blog.rime.co/post/119514284680/k-eke-neighborhood-jai-essaye-dexploiter-un
