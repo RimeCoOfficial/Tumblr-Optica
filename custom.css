@@ -1,3 +1,16 @@
+.logo-wrapper .t-logo .svg-logo {
+    padding: 5px 8px 5px 20px;
+    height: 39px;
+    width: 39px;
+}
+.logo-wrapper .search-wrapper {
+    float: right;
+    padding-right: 5px;
+}
+.logo-wrapper .search-wrapper .search-field {
+    width: 100%;
+}
+
 .panel {
     height: 100px;
 }
